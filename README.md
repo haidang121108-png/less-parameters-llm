@@ -27,6 +27,7 @@ The following table shows LaMini training results with the baseline and the opti
 - [📄 Full Technical Report (PDF)](https://www.researchgate.net/publication/388835829_SAVING_77_OF_THE_PARAMETERS_IN_LARGE_LANGUAGE_MODELS_TECHNICAL_REPORT)
 - [🤗 Model Checkpoints on HuggingFace](https://huggingface.co/schuler/)
 - [📊 Raw Experiment Files](https://github.com/joaopauloschuler/less-parameters-llm/tree/main/raw)
+- [📄 Chat with the JP47D56C Model](https://huggingface.co/spaces/schuler/kphi3-talk-to-JP47D56C)
 
 ## Repository Structure
 - /raw: Contains all raw experiment files and notebooks. Each experiment is documented in separate notebooks (JP47D54C, JP47D55C, JP47D56C).
