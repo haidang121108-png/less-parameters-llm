@@ -28,6 +28,7 @@ The following table shows LaMini training results with the baseline and the opti
 - [🤗 Model Checkpoints on HuggingFace](https://huggingface.co/schuler/)
 - [📊 Raw Experiment Files](https://github.com/joaopauloschuler/less-parameters-llm/tree/main/raw)
 - [📄 Chat with the JP47D56C Model](https://huggingface.co/spaces/schuler/kphi3-talk-to-JP47D56C)
+- [📄 Chat with the KPhi-3 Nano Model](https://huggingface.co/spaces/schuler/experimental-KPhi-3-nano-4k-instruct)(currently in training)
 
 ## Repository Structure
 - /raw: Contains all raw experiment files and notebooks. Each experiment is documented in separate notebooks (JP47D54C, JP47D55C, JP47D56C).
